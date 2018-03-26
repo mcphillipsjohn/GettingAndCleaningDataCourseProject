@@ -1,16 +1,15 @@
-# File name:
-TidyDataSet.txt
+### File name: TidyDataSet.txt
 
-#Fields
+#### Fields
 
 * SubjectId: This is the ID of the person performing the movements
 * ActivityLabel: This is the activity the person was performing while the measurements were being taken. There are 6 possible values:
-** 1 WALKING
-** WALKING_UPSTAIRS
-** WALKING_DOWNSTAIRS
-** SITTING
-** STANDING
-** LAYING
+  * WALKING
+  * WALKING_UPSTAIRS
+  * WALKING_DOWNSTAIRS
+  * SITTING
+  * STANDING
+  * LAYING
 
 The rest of the fields are averages of the measurements that were recorded by the phones Accelerometer and Gyroscope, as denoted in the measure name.
 
